@@ -1,0 +1,8 @@
+state	speed_discomfort	minimize_discomfort
+exposed-1	0.8333333333333331	0.75
+exposed-2	1.6666666666666663	1.5
+exposed-3	3.3333333333333326	3.0
+symptoms-1	0.0	6.0
+symptoms-2	6.666666666666665	4.5
+symptoms-3	4.999999999999999	1.5
+recovered	1.6666666666666665	0.0
